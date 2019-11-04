@@ -1,0 +1,316 @@
+@charset "utf-8";
+
+/*
+[Admin Dashboard Stylesheet] Copyright © 2016
+Title      : SimonTaxi
+Version    : 1.0
+Author     : ConquerorsMarket
+Author URL : https://conquerorsmarket.com
+Support    : conquerorsmarket@gmail.com
+*/
+body{background: #fff;}
+
+/* Styling >> Tabs */
+.nav-pills>li>a {
+    border: 2px solid #e5e5e5;
+    background: #f1f1f1;
+    color: #232323;margin-right: 4px;
+    font-weight: bold;padding: 10px 3px;font-size: 12px;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    background-color: #f7b926;
+    font-weight: bold;
+    border-color: #e0a009;
+}
+.nav-pills-content .tab-pane{display: none;}
+.nav-pills-content .tab-pane.active {
+    display: block;
+}
+
+/*Styling>> Table */
+table.st-table {
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    margin: 30px 0;
+    text-align: left;
+    min-height: .01%;
+    overflow-x: auto;border-spacing: 0;
+    border-collapse: collapse;
+}
+.st-table tr:nth-of-type(odd) {
+    background: #f3f4f6;
+}
+.st-table>tbody>tr>td, .st-table>tbody>tr>th, .st-table>tfoot>tr>td, .st-table>tfoot>tr>th, .st-table>thead>tr>td, .st-table>thead>tr>th{
+    padding: 8px 8px 4px 8px;
+    line-height: 1.42857;
+    vertical-align: top;
+}
+table.st-table-vehicles label {
+    display: block;
+    margin-top: 10px;
+}
+/*Form wrap table*/
+.form-wrap{background: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #e5e5e5;}
+.form-wrap h2{font-weight: bold;}
+.form-wrap table{
+    width: 100%;
+}
+.form-table.label-align tr td:nth-child(2) input {
+    border: 1px solid red;
+    margin-top: 45px;
+}
+.tagcloud {
+    width: 100%;margin-top: 30px;
+    background: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #e5e5e5;
+}
+.tablenav-pages-navspan{height: auto !important;}
+#titlediv #title-prompt-text{font-size: 15px;}
+table.st-table.hide{display: none;}
+/*Tabs-Pills*/
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+.nav-pills>li>a {
+    border: 2px solid #e5e5e5;
+    background: #ffffff;
+    color: #232323;
+    margin-right: 4px;
+    font-weight: bold;
+    padding: 10px 3px;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    background-color: #f7b926;
+    font-weight: bold;
+    border-color: #e0a009;
+    color: #fff;
+}
+@media (min-width: 768px){
+    .nav-justified>li {
+        display: table-cell;
+        width: 1%;
+    }
+    .nav-justified>li>a {
+        margin-bottom: 0;
+    }
+}
+.nav-pills>li {
+    float: left;
+}
+.nav-justified>li {
+    float: none;
+}
+/*Tooltip*/
+
+.tooltip.right {
+    padding: 0 5px;
+    margin-left: 3px;
+}
+
+.tooltip.in {
+    filter: alpha(opacity=90);
+    opacity: .9;
+}
+.fade.in {
+    opacity: 1;
+}
+.st_tooltip{
+    cursor: pointer;
+}
+.tooltip {
+    position: absolute;
+    z-index: 1070;
+    display: block;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: left;
+    text-align: start;
+    text-decoration: none;
+    text-shadow: none;
+    text-transform: none;
+    letter-spacing: normal;
+    word-break: normal;
+    word-spacing: normal;
+    word-wrap: normal;
+    white-space: normal;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    line-break: auto;
+}
+.tooltip.right .tooltip-arrow {
+    top: 50%;
+    left: 0;
+    margin-top: -5px;
+    border-width: 5px 5px 5px 0;
+    border-right-color: #000;
+}
+.tooltip-arrow {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+}
+.tooltip-inner {
+    max-width: 200px;
+    padding: 3px 8px;
+    color: #fff;
+    text-align: center;
+    background-color: #000;
+    border-radius: 4px;
+}
+.vehicle_images li {
+    display: inline-block;
+    margin: 5px;
+    background: #f1f1f1;
+    text-align: center;
+}
+/*st table styling*/
+table.st-table-vehicles,table.st-table-vehicles input{
+    /* width: 100%; */
+}
+.st-input-number{width: 106px !important;}
+.st-input-luggage_type_symbol{max-width: 213px !important;}
+.st-input-transition_time{max-width: 80px !important;}
+#luggage_type{margin-top: -2px;}
+/* Simontaxi Extensions layout */
+.simontaxi-extensions-layout {
+    padding: 15px;
+}
+.simontaxi-extensions-layout .simontaxi-extension{
+    background: #fff;
+    border: 1px solid #e6e6e6;border-radius: 2px;
+    float: left;
+    padding: 14px;
+    position: relative;
+    margin: 0 15px 15px 0;
+    /*width: 347px;*/
+    height: 428px;
+}
+.simontaxi-extension-title{font-size: 13px;
+    margin: 0 0 8px;
+	font-weight:bold;
+	}
+.btn-extension{
+    color: #555;
+    border-color: #ccc;
+    background: #f7f7f7;
+    -webkit-box-shadow: 0 1px 0 #ccc;
+    box-shadow: 0 1px 0 #ccc;
+    vertical-align: top;
+    position: absolute;
+    bottom: 14px;
+    left: 14px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    white-space: nowrap;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.btn-extension-installed{
+    color: #555;
+    border-color: #ccc;
+    background: #fff;
+    vertical-align: top;
+    position: absolute;
+    bottom: 14px;
+    left: 14px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0;
+    padding: 0 10px 1px;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    white-space: nowrap;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/**
+ * @since 2.0.4
+ */
+ .icon-wpb-simontaxi{
+	 background-image: url(../images/logo-32x32.png) !important;
+ }
+.subsubsub li.active {
+    font-weight: bold;
+    font-size: 16px;
+}
+.error {
+	color: red;
+}
+input.error {
+    border: 1px solid;
+    border-color: red;
+}
+
+.fade.in {
+    opacity: 1;
+}
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+.alert {
+    /* padding: 15px; */
+    margin-top: 10px;
+	margin-bottom: 10px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.fade {
+    opacity: 0;
+    -webkit-transition: opacity .15s linear;
+    -o-transition: opacity .15s linear;
+    transition: opacity .15s linear;
+}
+.close {
+    float: right;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    filter: alpha(opacity=20);
+    opacity: .2;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+}

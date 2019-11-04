@@ -1,0 +1,207 @@
+/*
+Theme Name: Simontaxi
+Theme URI: https://simontaxi.conquerorstech.com
+Author: Digisamaritan
+Author URI: https://digisamaritan.com/
+Description: SimonTaxi is a responsive theme for vehicle bookings, you can use this theme for cab booking , taxi booking, truck booking or any other online booking services.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: right-sidebar, flexible-header, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+Text Domain: simontaxi
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Simontaxi is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+
+
+/* Text meant only for screen readers */
+.says,
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute !important;
+    width: 1px;
+}
+
+.gallery-caption {
+    color: #707070;
+    color: rgba(51, 51, 51, 0.7);
+    display: block;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 12px;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    padding: 0.5em 0;
+}
+
+/**
+* 2.0 - Genericons
+*/
+
+.social-navigation a:before,
+.secondary-toggle:before,
+.dropdown-toggle:after,
+.bypostauthor > article .fn:after,
+.comment-reply-title small a:before,
+.comment-navigation .nav-next a:after,
+.comment-navigation .nav-previous a:before,
+.posted-on:before,
+.byline:before,
+.cat-links:before,
+.tags-links:before,
+.comments-link:before,
+.entry-format:before,
+.edit-link:before,
+.full-size-link:before,
+.pagination .prev:before,
+.pagination .next:before,
+.image-navigation a:before,
+.image-navigation a:after,
+.format-link .entry-title a:after,
+.entry-content .more-link:after,
+.entry-summary .more-link:after,
+.author-link:after {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-family: "Genericons";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: 1;
+    speak: none;
+    text-align: center;
+    text-decoration: inherit;
+    text-transform: none;
+    vertical-align: top;
+}
+
+.alignright {
+    display: inline;
+    float: right;
+}
+
+.widget blockquote.alignleft,
+.widget .wp-caption.alignleft,
+.widget img.alignleft {
+    margin: 0.5em 1.5em 1.5em 0;
+}
+
+blockquote.aligncenter,
+.wp-caption.aligncenter,
+img.aligncenter {
+    margin-top: 0.4211em;
+    margin-bottom: 1.6842em;
+}
+.bootstrap-select button{
+    min-width:100%;
+}
+
+.sticky{
+
+}
+
+.site-title {
+	padding-top: 13px;
+	color: #f7b926;
+	font-size: 24px;
+}
+@media(min-width:768px){
+	.site-title{padding-top: 16px;}
+}
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0; }
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 20px auto; }
+
+.alignright {
+    float: right;
+    margin: 5px 0 20px 20px; }
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0; }
+
+.aligncenter {
+    display: block;
+    margin: 5px auto 20px auto; }
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px; }
+
+a img.alignnone {
+    margin: 5px 20px 20px 0; }
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0; }
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+
+.wp-caption {
+    background: #f2f2f2;
+    border: 1px solid #e6e6e6;
+    max-width: 100%;
+    padding: 10px;
+    text-align: center; }
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0; }
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0; }
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px; }
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 100%;
+    padding: 0;
+    width: auto; }
+
+.wp-caption p.wp-caption-text {
+    font-size: 12px;
+    margin: 0;
+    padding: 5px; }
+/*Pagination*/
+.page-numbers{    font-size: 15px;
+    font-weight: 700;
+    color: #232222;
+    padding: 5px 12px;
+    line-height: initial;
+    border: 1px solid #ebebeb;
+    border-radius: 0;}
+.page-numbers.current {
+    border-color: #f7b926;
+}
+.page-numbers:hover,.page-numbers:focus{color: #f7b926;}
+
+@media (max-width: 767px){
+.admin-bar .navbar-offcanvas {
+  top:46px;
+}
+}
+
+.widget .input-group{width:100%;margin-bottom:20px;}

@@ -1,0 +1,410 @@
+
+---Downloaded files---
+The import files for: Simontaxi Demo Data + Vehicles were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/taxi
+Data file = C:\wamp64\www\taxi/wp-content/uploads/2019/10/demo-content-import-file_2019-10-29__09-02-51.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-012afcc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0070b67-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-012afcc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0070b67-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-012afcc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0070b67-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-012afcc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0070b67-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-012afcc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0070b67-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-012afcc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0070b67-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-012afcc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0070b67-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768-1" (Media)
+[ERROR] Failed to import "vehicles.xml.txt" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-012afcc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0070b67-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768-1" (Media)
+[ERROR] Failed to import "vehicles.xml.txt" (Media)
+[ERROR] Failed to import "media.xml.txt" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "landrover-range-rover-sport-0054a5f-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-004dd28-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-012afcc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0037dc7-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-0070b67-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00264bc-h768" (Media)
+[ERROR] Failed to import "landrover-range-rover-sport-00782f8-h768-1" (Media)
+[ERROR] Failed to import "vehicles.xml.txt" (Media)
+[ERROR] Failed to import "media.xml.txt" (Media)
+
+
+---pt-ocdi/after_import---
+

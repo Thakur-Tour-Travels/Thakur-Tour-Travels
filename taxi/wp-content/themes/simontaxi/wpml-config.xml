@@ -1,0 +1,53 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">vehicle</custom-type>
+    <custom-type translate="1">faq</custom-type>
+    <custom-type translate="1">emailtemplate</custom-type>
+    <custom-type translate="1">smstemplate</custom-type>
+    <custom-type translate="1">testimonial</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">vehicle_types</taxonomy>
+    <taxonomy translate="1">vehicle_features</taxonomy>
+    <taxonomy translate="1">vehicle_locations</taxonomy>
+    <taxonomy translate="1">hourly_packages</taxonomy>
+    <taxonomy translate="1">blockout_date</taxonomy>
+    <taxonomy translate="1">peak_season</taxonomy>
+    <taxonomy translate="1">distance_price</taxonomy>
+    <taxonomy translate="1">coupon_code</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="translate">p2p_basic_distance</custom-field>
+    <custom-field action="translate">p2p_basic_price</custom-field>
+    <custom-field action="translate">p2p_unit_price</custom-field>
+    <custom-field action="translate">to_airport_basic_distance</custom-field>
+    <custom-field action="translate">to_airport_basic_price</custom-field>
+    <custom-field action="translate">to_airport_unit_price</custom-field>
+    <custom-field action="translate">from_airport_basic_distance</custom-field>
+    <custom-field action="translate">from_airport_basic_price</custom-field>
+    <custom-field action="translate">from_airport_unit_price</custom-field>
+    <custom-field action="translate">seating_capacity</custom-field>
+    <custom-field action="translate">luggage</custom-field>
+    <custom-field action="translate">luggage_type</custom-field>
+    <custom-field action="translate">vehicle_image_gallery</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="default_title"/>
+    <key name="default_title_plural"/>
+    <key name="vehicle_places"/>
+    <key name="distance_taken_from"/>
+    <key name="display_distance"/>
+    <key name="outofservice"/>
+    <key name="vehicle_distance"/>
+    <key name="farecalculation_basedon"/>
+    <key name="terms_page"/>
+    <key name="active_tabs"/>
+    <key name="p2p_tab_title"/>
+    <key name="airport_tab_title"/>
+    <key name="hourly_tab_title"/>
+    <key name="booking_step1_title"/>
+    <key name="booking_step2_title"/>
+    <key name="booking_step3_title"/>
+    <key name="booking_step4_title"/>
+  </admin-texts>
+</wpml-config>

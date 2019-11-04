@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Simontaxi Demo Data + Vehicles were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://simontaxi.conquerorstech.com
+Data file = /home/92481-72081.cloudwaysapps.com/fhzgmyhygn/public_html/wp-content/uploads/2017/05/demo-content-import-file_2017-05-11__07-33-09.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/after_import---
+

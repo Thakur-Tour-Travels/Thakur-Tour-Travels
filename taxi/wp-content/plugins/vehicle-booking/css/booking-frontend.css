@@ -1,0 +1,126 @@
+/* Fronted css*/
+
+
+.st-booking-pills.nav-pills>li.active>a,
+.st-booking-pills.nav-pills>li.active>a:focus,
+.st-booking-pills.nav-pills>li.active>a:hover {
+    background-color: #f7b926;
+    color: #ffffff;
+}
+
+.st-booking-pills.nav-pills>li>a {
+    background-color: #232222;
+    color: #ffffff;
+    padding: 20px 6px;
+    border-radius: 0;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.st-booking-pills.nav-pills>li+li>a {
+    margin-left: 4px;
+}
+
+@media(max-width:768px){
+    .st-booking-pills>li {
+        display: inline-block;
+        width: 31.33%;
+    }
+    .st-booking-pills.nav-pills>li>a{
+        padding: 8px 4px;
+        font-size: 12px;
+    }
+}
+
+@media(max-width:600px){
+    .st-booking-pills {
+		white-space: normal !important;
+		overflow-x: auto !important;
+		text-align: center;
+	}
+}
+
+
+
+/*input placeholder icons*/
+.cs-pad-right{padding-right: 5px !important;}
+.cs-pad-left{padding-left: 5px !important;}
+.inner-addon {
+    position: relative;
+}
+.inner-addon .st-icon {
+    position: absolute;
+    padding: 13px;
+    z-index: 1;
+    pointer-events: none;
+    font-size: 22px;
+    color: #888888;
+}
+.right-addon .st-icon {
+    right: 0px;
+}
+.right-addon input {
+    padding-right: 30px;
+}
+.error {
+    /*color: #d62f2b !important;
+    display: inline-block;
+	font-size: 12px;
+	border: 1px solid !important;
+	*/
+	color: #d62f2b !important;
+    display: inline-block;
+	font-size: 12px;
+	/*border: 1px solid !important;
+    text-transform: uppercase;*/
+}
+/**
+ * @since 2.0.0
+ */
+.st-table td {
+	min-width: 60px;
+}
+
+/**
+ * @since 2.0.1
+ */
+input[type=checkbox]:not(old):checked + label > span:before {
+	content: "\f00c" !important;
+    font-family: FontAwesome !important;   
+    font-size: 0.875em !important;
+}
+
+.st-gheading {
+    font-size: 28px;
+    font-weight: 500;
+    color: #ffffff;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.st-table.table > tbody > tr {
+    opacity: 1 ! important;
+}
+
+.st-table .open > .dropdown-menu {
+    display: contents !important;
+}
+
+/**
+ * @since 2.0.9
+ */
+.select2-container {
+	width: 100% !important;
+}
+ .select2-container .select2-selection--single {
+	height: 48px !important;
+}
+.select2-container--default .select2-selection--single {
+	border: 1px solid #ebebeb !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+	top: 11px !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+	line-height: 44px !important;
+}
